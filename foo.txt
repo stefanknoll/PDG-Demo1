@@ -1,4 +1,2 @@
 Test
 und eine zweite Zeile
-
-und eine dritte Zeile
